@@ -48,7 +48,7 @@ Amazon-Sales-Analysis-Python/
 
 ### Distribution of State
 
-![Distribution of State](images/statedistri.jpg)
+![Distribution of State](images/statedistri.png)
 
 > From the above graph, you can see that most buyers are from Maharashtra state.
 
@@ -56,7 +56,7 @@ Amazon-Sales-Analysis-Python/
 
 ### Buyer Segment
 
-![Buyer Segment](images/buyers.jpg)
+![Buyer Segment](images/buyers.png)
 
 > From the above chart, 99.3% of buyers are retailers, and only 0.7% are B2B buyers.
 
@@ -64,7 +64,7 @@ Amazon-Sales-Analysis-Python/
 
 ### Top Products
 
-![Top Products](images/tshirt-buyers.jpg)
+![Top Products](r"images/tshirt buyers.png")
 
 > T-shirts are the most purchased product among buyers.
 
@@ -72,7 +72,7 @@ Amazon-Sales-Analysis-Python/
 
 ### Popular Sizes
 
-![Popular Sizes](images/amazonsalestopProd.jpg)
+![Popular Sizes](images/amazonsalestopProd.png)
 
 > M-size is the most frequently bought, making it a key focus for inventory and marketing.
 
