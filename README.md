@@ -64,7 +64,7 @@ Amazon-Sales-Analysis-Python/
 
 ### Top Products
 
-![Top Products](r"images/tshirt buyers.png")
+![Top Products](r"images/tshirtbuyers.png")
 
 > T-shirts are the most purchased product among buyers.
 
